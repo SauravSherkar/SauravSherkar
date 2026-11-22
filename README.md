@@ -14,11 +14,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SauravSherkar&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/SauravSherkar?style=for-the-badge&color=2563eb&labelColor=0d1117)
-![Repos](https://img.shields.io/github/search/SauravSherkar/SauravSherkar?style=for-the-badge&color=2563eb&labelColor=0d1117&label=Repos)
-![Status](https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-312e81?style=for-the-badge&labelColor=0d1117)
-
 </div>
 
 ---
