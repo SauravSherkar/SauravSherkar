@@ -227,7 +227,7 @@ flowchart LR
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Saurav1-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SauravSherkar)
+[![GitHub](https://img.shields.io/badge/GitHub-Saurav-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SauravSherkar)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravsherkar18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saurav--sherkar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-sherkar-b521672a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/Instagram-@saurav_sherkar_18-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav_sherkar_18)
