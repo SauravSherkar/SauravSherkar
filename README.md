@@ -223,13 +223,16 @@ flowchart LR
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-Saurav1-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SauravSherkar)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravsherkar18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurav--sherkar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-sherkar-b521672a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.shields.io/badge/Instagram-@saurav_sherkar_18-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav_sherkar_18)
+
+</div>
 
 <br/><br/>
 
